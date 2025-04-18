@@ -1,10 +1,9 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">toolKit v1</h1>
-<h4 align="center">基于若依二开的一个工具合集项目，持续思考ing</h4>
+<h4 align="center">基于若依二开的一个工具合集项目</h4>
 
 
 ## 平台简介
-
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
